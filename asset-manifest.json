@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vite.github.io/static/css/main.4d6ec510.css",
+    "main.js": "/vite.github.io/static/js/main.89851a82.js",
+    "static/js/453.a977c2b1.chunk.js": "/vite.github.io/static/js/453.a977c2b1.chunk.js",
+    "index.html": "/vite.github.io/index.html",
+    "main.4d6ec510.css.map": "/vite.github.io/static/css/main.4d6ec510.css.map",
+    "main.89851a82.js.map": "/vite.github.io/static/js/main.89851a82.js.map",
+    "453.a977c2b1.chunk.js.map": "/vite.github.io/static/js/453.a977c2b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d6ec510.css",
+    "static/js/main.89851a82.js"
+  ]
+}
